@@ -1,0 +1,2 @@
+# webnovel_update_bot
+webnovel_update_bot
